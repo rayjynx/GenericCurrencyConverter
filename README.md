@@ -5,6 +5,14 @@ It's a basic python script which converts currency :)
  
 Using API from https://www.exchangerate-api.com/
 
+## Features
+
+- Currency conversion from and to over 150 currencies
+- Error handling supported
+
+Planning to implement a GUI
+
+
 ## Run Locally
 
 Clone the project
