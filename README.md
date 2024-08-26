@@ -36,6 +36,6 @@ Install dependencies
 Run the script
 
 ```bash
-  py __init.py__
+  py main.py
 ```
 
