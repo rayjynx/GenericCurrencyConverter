@@ -27,6 +27,12 @@ Go to the project directory
   cd GenericCurrencyConverter
 ```
 
+Enter the source folder
+
+```bash
+  cd src
+```
+
 Install dependencies
 
 ```bash
